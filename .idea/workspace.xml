@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8094e6b4-fca7-4996-8b1c-4ce25f9fef70" name="Default Changelist" comment="solved: p9">
-      <change afterPath="$PROJECT_DIR$/.idea/scopes/Solutions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/p9_palindrome-number/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/14_longest-common-prefix/solution.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -68,8 +74,30 @@
       <option name="presentableId" value="Default" />
       <updated>1618715362121</updated>
       <workItem from="1618715363558" duration="410000" />
-      <workItem from="1618715784669" duration="2546000" />
+      <workItem from="1618715784669" duration="3320000" />
     </task>
+    <task id="LOCAL-00001" summary="chore: jetbrains platform">
+      <created>1618719481580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618719481580</updated>
+    </task>
+    <task id="LOCAL-00002" summary="solved: p9">
+      <created>1618719500827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618719500827</updated>
+    </task>
+    <task id="LOCAL-00003" summary="solved: p9">
+      <created>1618719621460</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618719621460</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="chore: jetbrains platform" />
     <MESSAGE value="solved: p9" />
     <option name="LAST_COMMIT_MESSAGE" value="solved: p9" />
   </component>
