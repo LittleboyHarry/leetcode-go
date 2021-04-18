@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8094e6b4-fca7-4996-8b1c-4ce25f9fef70" name="Default Changelist" comment="solved: p9">
+    <list default="true" id="8094e6b4-fca7-4996-8b1c-4ce25f9fef70" name="Default Changelist" comment="chore: disable invalid SpellCheckingInspection">
       <change afterPath="$PROJECT_DIR$/problems/14_longest-common-prefix/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/14_longest-common-prefix/solution_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +60,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/problems/14_longest-common-prefix/solution_test.go" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1963001" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test in solution_test.go solution.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-go" />
+      <working_directory value="$PROJECT_DIR$/problems/14_longest-common-prefix" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/problems/14_longest-common-prefix/" />
+      <filePath value="$PROJECT_DIR$/problems/14_longest-common-prefix/solution_test.go|$PROJECT_DIR$/problems/14_longest-common-prefix/solution.go" />
+      <framework value="gotest" />
+      <pattern value="^\QTest\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test in solution_test.go solution.go" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618715362121</updated>
       <workItem from="1618715363558" duration="410000" />
-      <workItem from="1618715784669" duration="3320000" />
+      <workItem from="1618715784669" duration="4031000" />
     </task>
     <task id="LOCAL-00001" summary="chore: jetbrains platform">
       <created>1618719481580</created>
@@ -97,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618719621460</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chore: disable invalid SpellCheckingInspection">
+      <created>1618720278194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618720278194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +144,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="chore: jetbrains platform" />
     <MESSAGE value="solved: p9" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: p9" />
+    <MESSAGE value="chore: disable invalid SpellCheckingInspection" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: disable invalid SpellCheckingInspection" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
