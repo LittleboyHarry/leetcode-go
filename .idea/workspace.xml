@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8094e6b4-fca7-4996-8b1c-4ce25f9fef70" name="Default Changelist" comment="chore: 启动 go mod 和 testify 支持">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8094e6b4-fca7-4996-8b1c-4ce25f9fef70" name="Default Changelist" comment="chore: ffff">
+      <change afterPath="$PROJECT_DIR$/common/listnode/listnode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/test-utils/singlylist/singlylist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/2_add-two-numbers/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/2_add-two-numbers/solution_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +80,37 @@
       <recent name="D:\Projects\mine\leetcode-go\common\listnode" />
     </key>
   </component>
+  <component name="RunManager" selected="Go Test.go test 2_add-two-numbers">
+    <configuration name="Test_addTwoNumbers in leetcode-go/problems/2_add-two-numbers" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-go" />
+      <working_directory value="$PROJECT_DIR$/problems/2_add-two-numbers" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="leetcode-go/problems/2_add-two-numbers" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTest_addTwoNumbers\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test 2_add-two-numbers" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-go" />
+      <working_directory value="$PROJECT_DIR$/problems/2_add-two-numbers" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="leetcode-go" />
+      <directory value="$PROJECT_DIR$/problems/2_add-two-numbers" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test 2_add-two-numbers" />
+        <item itemvalue="Go Test.Test_addTwoNumbers in leetcode-go/problems/2_add-two-numbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,7 +122,7 @@
       <workItem from="1618715363558" duration="410000" />
       <workItem from="1618715784669" duration="4434000" />
       <workItem from="1618838432137" duration="4671000" />
-      <workItem from="1618843155766" duration="18000" />
+      <workItem from="1618843155766" duration="1808000" />
     </task>
     <task id="LOCAL-00001" summary="chore: jetbrains platform">
       <created>1618719481580</created>
@@ -132,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618843061199</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chore: 启动 go mod 和 testify 支持">
+      <created>1618843264862</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618843264862</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
