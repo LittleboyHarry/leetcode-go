@@ -1,3 +1,0 @@
-<component name="DependencyValidationManager">
-  <scope name="Solutions" pattern="file:*/solution.go" />
-</component>
